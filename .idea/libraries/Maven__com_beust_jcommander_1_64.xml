@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Maven: com.beust:jcommander:1.64">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Test Data Supplier/lib/aspectjrt-1.8.10.jar!/" />
+      <root url="jar://C:/Program Files/Test Data Supplier/lib/jcommander-1.64.jar!/" />
+      <root url="jar://C:/Program Files/Test Data Supplier/lib/joor-0.9.6.jar!/" />
+      <root url="jar://C:/Program Files/Test Data Supplier/lib/lombok-1.16.18.jar!/" />
+      <root url="jar://C:/Program Files/Test Data Supplier/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://C:/Program Files/Test Data Supplier/lib/slf4j-simple-1.7.25.jar!/" />
+      <root url="jar://C:/Program Files/Test Data Supplier/lib/snakeyaml-1.17.jar!/" />
+      <root url="jar://C:/Program Files/Test Data Supplier/lib/streamex-0.6.5.jar!/" />
+      <root url="jar://C:/Program Files/Test Data Supplier/lib/test-data-supplier-1.1.0.jar!/" />
+      <root url="jar://C:/Program Files/Test Data Supplier/lib/test-data-supplier-plugin-0.0.2.jar!/" />
+      <root url="jar://C:/Program Files/Test Data Supplier/lib/testng-6.11.jar!/" />
+      <root url="jar://C:/Program Files/Test Data Supplier/lib/vavr-0.9.0.jar!/" />
+      <root url="jar://C:/Program Files/Test Data Supplier/lib/vavr-match-0.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.64/jcommander-1.64-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.64/jcommander-1.64-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

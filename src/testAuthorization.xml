@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "Test Suite" parallel="none">
+
+    <listeners>
+        <listener class-name="listeners.TestListener"/>
+        <listener class-name="utility.RetryAnalyzer"/>
+    </listeners>
+
+    <test name="Test authorization - Firefox">
+        <parameter name="browser" value="Firefox"/>
+        <groups>
+            <define name="All">
+                <include name="Positive"/>
+                <include name="Negative"/>
+            </define>
+            <run>
+                <include name="All"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="tests.TestAuthorization" />
+        </classes>
+    </test>
+
+    <test name="Test authorization - Chrome">
+        <parameter name="browser" value="Chrome"/>
+        <groups>
+            <define name="All">
+                <include name="Positive"/>
+                <include name="Negative"/>
+            </define>
+            <run>
+                <include name="All"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="tests.TestAuthorization" />
+        </classes>
+    </test>
+
+    <test name="Test authorization - Edge">
+        <parameter name="browser" value="Edge"/>
+        <groups>
+            <define name="All">
+                <include name="Positive"/>
+                <include name="Negative"/>
+            </define>
+            <run>
+                <include name="All"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="tests.TestAuthorization" />
+        </classes>
+    </test>
+
+</suite>
