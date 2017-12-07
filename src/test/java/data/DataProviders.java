@@ -25,7 +25,7 @@ public class DataProviders {
                 {"uauserqa@gmail.com","S240993"},
         };
     }
-
+ 
 
     @DataProvider(name = "registrationInvalidData")
     public Object[][] negativeRegistrationTestData(){
