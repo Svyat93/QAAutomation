@@ -15,14 +15,14 @@ public class DataProviders {
     @DataProvider(name = "authorizationInvalidData")
     public Object[][] negativeAuthorizationTestData(){
         return new Object[][]{
-                {"93userqagmail.com","S240993"},
+                {"uauserqagmail.com","S240993"},
         };
     }
 
     @DataProvider(name = "authorizationIncorrectPassword")
     public Object[][] authorizationIncorrectPassword(){
         return new Object[][]{
-                {"93userqa@gmail.com","S240993"},
+                {"uauserqa@gmail.com","S240993"},
         };
     }
 

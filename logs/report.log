@@ -475,3 +475,54 @@
 15:46:37.702 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
 15:46:43.516 [main] INFO  Logger - negativeAuthorizationTestScenario started.
 15:46:45.219 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+15:50:47.567 [main] INFO  Logger - Test authorization - Firefox started.
+15:50:56.664 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+15:50:59.808 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
+15:51:06.245 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+15:51:08.234 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+15:51:14.728 [main] INFO  Logger - checkAlertMessageTestScenario started.
+15:51:22.741 [main] INFO  Logger - checkAlertMessageTestScenario skipped.
+15:51:28.187 [main] INFO  Logger - checkAlertMessageTestScenario started.
+15:51:35.757 [main] INFO  Logger - checkAlertMessageTestScenario failed.
+15:51:36.297 [main] INFO  Logger - Test authorization - Firefox finished.
+15:51:36.297 [main] INFO  Logger - Test authorization - Chrome started.
+15:51:39.311 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+15:51:40.256 [main] INFO  Logger - positiveAuthorizationTestScenario skipped.
+15:51:42.893 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+15:52:59.612 [main] INFO  Logger - Test authorization - Firefox started.
+15:53:08.623 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+15:53:11.340 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
+15:53:17.847 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+15:53:19.740 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+15:53:26.138 [main] INFO  Logger - checkAlertMessageTestScenario started.
+15:53:30.823 [main] INFO  Logger - checkAlertMessageTestScenario skipped.
+15:53:30.898 [main] INFO  Logger - checkAlertMessageTestScenario skipped.
+15:53:30.898 [main] INFO  Logger - Test authorization - Firefox finished.
+15:53:30.898 [main] INFO  Logger - Test authorization - Chrome started.
+15:53:55.241 [main] INFO  Logger - Test authorization - Firefox started.
+15:54:02.117 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+15:54:04.813 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
+15:54:37.955 [main] INFO  Logger - Test authorization - Firefox started.
+15:54:44.948 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+15:54:47.623 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
+15:54:54.296 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+15:54:56.151 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+15:55:02.626 [main] INFO  Logger - checkAlertMessageTestScenario started.
+15:55:05.361 [main] INFO  Logger - checkAlertMessageTestScenario passed.
+15:55:05.861 [main] INFO  Logger - Test authorization - Firefox finished.
+15:55:05.861 [main] INFO  Logger - Test authorization - Chrome started.
+15:55:08.625 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+15:55:17.456 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
+15:55:20.208 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+15:55:24.281 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+15:55:26.997 [main] INFO  Logger - checkAlertMessageTestScenario started.
+15:55:31.655 [main] INFO  Logger - checkAlertMessageTestScenario passed.
+15:55:32.420 [main] INFO  Logger - Test authorization - Chrome finished.
+15:55:32.441 [main] INFO  Logger - Test authorization - Edge started.
+15:55:33.909 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+15:55:37.297 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
+15:55:41.605 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+15:55:43.136 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+15:55:47.283 [main] INFO  Logger - checkAlertMessageTestScenario started.
+15:55:48.985 [main] INFO  Logger - checkAlertMessageTestScenario passed.
+15:55:51.842 [main] INFO  Logger - Test authorization - Edge finished.
