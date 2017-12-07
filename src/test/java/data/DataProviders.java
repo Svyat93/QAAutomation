@@ -8,7 +8,7 @@ public class DataProviders {
     @DataProvider(name = "authorizationValidData")
     public Object[][] positiveAuthorizationTestData(){
      return new Object[][]{
-             {"93userqa@gmail.com","qauser1993"}
+             {"uauserqa@gmail.com","qauser1993"}
      };
     }
 

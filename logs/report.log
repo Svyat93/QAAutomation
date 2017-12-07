@@ -424,3 +424,54 @@
 15:11:39.646 [main] INFO  Logger - Test authorization - Firefox started.
 15:11:46.634 [main] INFO  Logger - positiveAuthorizationTestScenario started.
 15:11:53.508 [main] INFO  Logger - positiveAuthorizationTestScenario skipped.
+15:38:14.868 [main] INFO  Logger - Test authorization - Firefox started.
+15:38:22.854 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+15:38:30.034 [main] INFO  Logger - positiveAuthorizationTestScenario skipped.
+15:39:40.010 [main] INFO  Logger - Test authorization - Firefox started.
+15:39:48.109 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+15:39:55.258 [main] INFO  Logger - positiveAuthorizationTestScenario skipped.
+15:40:01.798 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+15:40:09.624 [main] INFO  Logger - positiveAuthorizationTestScenario failed.
+15:40:16.142 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+15:40:17.936 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+15:40:24.490 [main] INFO  Logger - checkAlertMessageTestScenario started.
+15:40:31.668 [main] INFO  Logger - checkAlertMessageTestScenario skipped.
+15:40:38.080 [main] INFO  Logger - checkAlertMessageTestScenario started.
+15:40:46.642 [main] INFO  Logger - checkAlertMessageTestScenario failed.
+15:40:47.243 [main] INFO  Logger - Test authorization - Firefox finished.
+15:40:47.255 [main] INFO  Logger - Test authorization - Chrome started.
+15:43:59.416 [main] INFO  Logger - Test authorization - Firefox started.
+15:44:05.170 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+15:44:12.066 [main] INFO  Logger - positiveAuthorizationTestScenario skipped.
+15:44:17.628 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+15:44:24.868 [main] INFO  Logger - positiveAuthorizationTestScenario failed.
+15:44:30.494 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+15:44:32.674 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+15:44:39.103 [main] INFO  Logger - checkAlertMessageTestScenario started.
+15:44:46.402 [main] INFO  Logger - checkAlertMessageTestScenario skipped.
+15:44:51.829 [main] INFO  Logger - checkAlertMessageTestScenario started.
+15:44:59.337 [main] INFO  Logger - checkAlertMessageTestScenario failed.
+15:44:59.954 [main] INFO  Logger - Test authorization - Firefox finished.
+15:44:59.954 [main] INFO  Logger - Test authorization - Chrome started.
+15:45:02.483 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+15:45:12.844 [main] INFO  Logger - positiveAuthorizationTestScenario failed.
+15:45:15.547 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+15:45:19.186 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+15:45:21.772 [main] INFO  Logger - checkAlertMessageTestScenario started.
+15:45:31.550 [main] INFO  Logger - checkAlertMessageTestScenario failed.
+15:45:32.331 [main] INFO  Logger - Test authorization - Chrome finished.
+15:45:32.347 [main] INFO  Logger - Test authorization - Edge started.
+15:45:33.781 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+15:45:41.278 [main] INFO  Logger - positiveAuthorizationTestScenario failed.
+15:45:45.499 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+15:45:46.827 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+15:45:53.309 [main] INFO  Logger - Test add email - Firefox started.
+15:46:02.000 [main] INFO  Logger - positiveAddEmailTestScenario started.
+15:46:04.361 [main] INFO  Logger - positiveAddEmailTestScenario passed.
+15:46:04.923 [main] INFO  Logger - Test add email - Firefox finished.
+15:46:04.946 [main] INFO  Logger - Test add email - Chrome started.
+15:46:27.502 [main] INFO  Logger - Test authorization - Firefox started.
+15:46:34.376 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+15:46:37.702 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
+15:46:43.516 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+15:46:45.219 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
