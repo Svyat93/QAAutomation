@@ -8,7 +8,7 @@ public class DataProviders {
     @DataProvider(name = "authorizationValidData")
     public Object[][] positiveAuthorizationTestData(){
      return new Object[][]{
-             {"uauserqa@gmail.com","qauser1993"}
+             {"userqa93@gmail.com","qauser1993"}
      };
     }
 
@@ -22,10 +22,9 @@ public class DataProviders {
     @DataProvider(name = "authorizationIncorrectPassword")
     public Object[][] authorizationIncorrectPassword(){
         return new Object[][]{
-                {"uauserqa@gmail.com","S240993"},
+                {"userqa93@gmail.com","S240993"},
         };
     }
-
 
     @DataProvider(name = "registrationInvalidData")
     public Object[][] negativeRegistrationTestData(){

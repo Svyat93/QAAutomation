@@ -526,3 +526,212 @@
 15:55:47.283 [main] INFO  Logger - checkAlertMessageTestScenario started.
 15:55:48.985 [main] INFO  Logger - checkAlertMessageTestScenario passed.
 15:55:51.842 [main] INFO  Logger - Test authorization - Edge finished.
+16:02:17.498 [main] INFO  Logger - Test authorization - Firefox started.
+16:02:24.336 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+16:02:27.940 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
+16:02:36.912 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+16:02:39.239 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+16:02:50.544 [main] INFO  Logger - checkAlertMessageTestScenario started.
+16:02:53.929 [main] INFO  Logger - checkAlertMessageTestScenario passed.
+16:02:54.311 [main] INFO  Logger - Test authorization - Firefox finished.
+16:02:54.324 [main] INFO  Logger - Test authorization - Chrome started.
+16:10:05.605 [main] INFO  Logger - Test authorization - Firefox started.
+16:10:12.535 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+16:10:16.030 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
+16:10:21.558 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+16:10:23.466 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+16:10:28.948 [main] INFO  Logger - checkAlertMessageTestScenario started.
+16:10:31.445 [main] INFO  Logger - checkAlertMessageTestScenario passed.
+16:10:31.853 [main] INFO  Logger - Test authorization - Firefox finished.
+16:10:31.894 [main] INFO  Logger - Test authorization - Chrome started.
+16:10:34.623 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+16:10:43.033 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
+16:10:45.837 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+16:10:49.943 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+16:10:52.692 [main] INFO  Logger - checkAlertMessageTestScenario started.
+16:11:02.207 [main] INFO  Logger - checkAlertMessageTestScenario skipped.
+16:11:04.909 [main] INFO  Logger - checkAlertMessageTestScenario started.
+16:11:14.321 [main] INFO  Logger - checkAlertMessageTestScenario failed.
+16:11:15.127 [main] INFO  Logger - Test authorization - Chrome finished.
+16:11:15.127 [main] INFO  Logger - Test authorization - Edge started.
+16:11:31.970 [main] INFO  Logger - Test add email - Firefox started.
+16:11:45.117 [main] INFO  Logger - positiveAddEmailTestScenario skipped.
+16:11:45.117 [main] INFO  Logger - Test add email - Firefox finished.
+16:11:45.133 [main] INFO  Logger - Test add email - Chrome started.
+16:20:48.551 [main] INFO  Logger - Test add email - Firefox started.
+16:21:04.585 [main] INFO  Logger - positiveAddEmailTestScenario skipped.
+16:21:04.587 [main] INFO  Logger - Test add email - Firefox finished.
+16:21:04.598 [main] INFO  Logger - Test add email - Chrome started.
+16:23:20.366 [main] INFO  Logger - Test add email - Firefox started.
+16:23:33.849 [main] INFO  Logger - positiveAddEmailTestScenario skipped.
+16:23:33.849 [main] INFO  Logger - Test add email - Firefox finished.
+16:23:33.849 [main] INFO  Logger - Test add email - Chrome started.
+16:23:38.347 [main] INFO  Logger - Test authorization - Firefox started.
+16:23:45.347 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+16:23:51.725 [main] INFO  Logger - positiveAuthorizationTestScenario skipped.
+16:23:51.786 [main] INFO  Logger - positiveAuthorizationTestScenario skipped.
+16:23:51.804 [main] INFO  Logger - negativeAuthorizationTestScenario skipped.
+16:23:51.806 [main] INFO  Logger - checkAlertMessageTestScenario skipped.
+16:23:51.806 [main] INFO  Logger - Test authorization - Firefox finished.
+16:23:51.817 [main] INFO  Logger - Test authorization - Chrome started.
+16:23:54.052 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+16:24:11.324 [main] INFO  Logger - Test authorization - Firefox started.
+16:24:17.235 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+16:24:24.204 [main] INFO  Logger - positiveAuthorizationTestScenario skipped.
+16:24:29.785 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+16:24:35.820 [main] INFO  Logger - Test authorization - Firefox finished.
+16:28:18.488 [main] INFO  Logger - Test authorization - Firefox started.
+16:28:24.355 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+16:28:31.412 [main] INFO  Logger - positiveAuthorizationTestScenario skipped.
+16:30:21.235 [main] INFO  Logger - Test authorization - Firefox started.
+16:30:28.159 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+16:30:35.025 [main] INFO  Logger - positiveAuthorizationTestScenario skipped.
+16:30:40.584 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+16:30:48.250 [main] INFO  Logger - positiveAuthorizationTestScenario failed.
+16:30:53.664 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+16:30:55.320 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+16:31:01.700 [main] INFO  Logger - checkAlertMessageTestScenario started.
+16:31:08.877 [main] INFO  Logger - checkAlertMessageTestScenario skipped.
+16:35:59.860 [main] INFO  Logger - Test add email - Firefox started.
+16:36:10.599 [main] INFO  Logger - positiveAddEmailTestScenario skipped.
+16:36:10.599 [main] INFO  Logger - Test add email - Firefox finished.
+16:36:10.599 [main] INFO  Logger - Test add email - Chrome started.
+16:38:14.588 [main] INFO  Logger - Test change password - Firefox started.
+16:38:27.263 [main] INFO  Logger - negativeChangePasswordTestScenario skipped.
+16:38:27.263 [main] INFO  Logger - Test change password - Firefox finished.
+16:38:27.286 [main] INFO  Logger - Test change password - Chrome started.
+16:38:38.693 [main] INFO  Logger - negativeChangePasswordTestScenario skipped.
+16:38:38.694 [main] INFO  Logger - Test change password - Chrome finished.
+16:38:38.710 [main] INFO  Logger - Test change password - Edge started.
+16:47:40.353 [main] INFO  Logger - Test add email - Firefox started.
+16:47:49.103 [main] INFO  Logger - positiveAddEmailTestScenario started.
+16:47:51.790 [main] INFO  Logger - positiveAddEmailTestScenario passed.
+16:47:52.342 [main] INFO  Logger - Test add email - Firefox finished.
+16:47:52.342 [main] INFO  Logger - Test add email - Chrome started.
+17:00:42.826 [main] INFO  Logger - Test authorization - Firefox started.
+17:00:48.858 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+17:00:51.805 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
+17:00:57.196 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+17:00:58.800 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+17:01:05.352 [main] INFO  Logger - checkAlertMessageTestScenario started.
+17:01:08.081 [main] INFO  Logger - checkAlertMessageTestScenario passed.
+17:01:08.540 [main] INFO  Logger - Test authorization - Firefox finished.
+17:01:08.540 [main] INFO  Logger - Test authorization - Chrome started.
+17:01:10.557 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+17:01:17.700 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
+17:01:20.495 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+17:01:24.339 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+17:01:27.063 [main] INFO  Logger - checkAlertMessageTestScenario started.
+17:01:31.528 [main] INFO  Logger - checkAlertMessageTestScenario passed.
+17:01:32.268 [main] INFO  Logger - Test authorization - Chrome finished.
+17:01:32.306 [main] INFO  Logger - Test authorization - Edge started.
+17:01:33.653 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+17:01:37.187 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
+17:01:41.394 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+17:01:42.722 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+17:01:46.869 [main] INFO  Logger - checkAlertMessageTestScenario started.
+17:01:49.974 [main] INFO  Logger - checkAlertMessageTestScenario passed.
+17:01:52.805 [main] INFO  Logger - Test authorization - Edge finished.
+17:03:38.495 [main] INFO  Logger - Test add email - Firefox started.
+17:03:47.598 [main] INFO  Logger - positiveAddEmailTestScenario started.
+17:03:50.532 [main] INFO  Logger - positiveAddEmailTestScenario passed.
+17:03:51.196 [main] INFO  Logger - Test add email - Firefox finished.
+17:03:51.242 [main] INFO  Logger - Test add email - Chrome started.
+17:05:44.527 [main] INFO  Logger - Test add email - Firefox started.
+17:05:54.645 [main] INFO  Logger - positiveAddEmailTestScenario started.
+17:05:57.193 [main] INFO  Logger - positiveAddEmailTestScenario passed.
+17:05:57.708 [main] INFO  Logger - Test add email - Firefox finished.
+17:05:57.708 [main] INFO  Logger - Test add email - Chrome started.
+17:06:09.651 [main] INFO  Logger - positiveAddEmailTestScenario started.
+17:06:13.099 [main] INFO  Logger - positiveAddEmailTestScenario passed.
+17:06:13.948 [main] INFO  Logger - Test add email - Chrome finished.
+17:06:13.954 [main] INFO  Logger - Test add email - Edge started.
+17:06:18.421 [main] INFO  Logger - positiveAddEmailTestScenario started.
+17:06:20.207 [main] INFO  Logger - positiveAddEmailTestScenario skipped.
+17:06:27.662 [main] INFO  Logger - positiveAddEmailTestScenario started.
+17:06:33.086 [main] INFO  Logger - positiveAddEmailTestScenario failed.
+17:06:36.071 [main] INFO  Logger - Test add email - Edge finished.
+17:11:51.081 [main] INFO  Logger - Test change password - Firefox started.
+17:12:01.893 [main] INFO  Logger - negativeChangePasswordTestScenario started.
+17:12:04.320 [main] INFO  Logger - negativeChangePasswordTestScenario passed.
+17:12:05.081 [main] INFO  Logger - Test change password - Firefox finished.
+17:12:05.113 [main] INFO  Logger - Test change password - Chrome started.
+17:12:15.899 [main] INFO  Logger - negativeChangePasswordTestScenario started.
+17:12:18.632 [main] INFO  Logger - negativeChangePasswordTestScenario passed.
+17:12:19.512 [main] INFO  Logger - Test change password - Chrome finished.
+17:12:19.543 [main] INFO  Logger - Test change password - Edge started.
+17:12:23.779 [main] INFO  Logger - negativeChangePasswordTestScenario started.
+17:12:26.086 [main] INFO  Logger - negativeChangePasswordTestScenario passed.
+17:12:33.435 [main] INFO  Logger - Test change password - Edge finished.
+17:13:16.819 [main] INFO  Logger - Test registration - Firefox started.
+17:13:23.692 [main] INFO  Logger - negativeRegistrationTestScenario started.
+17:13:25.617 [main] INFO  Logger - negativeRegistrationTestScenario passed.
+17:13:26.034 [main] INFO  Logger - Test registration - Firefox finished.
+17:13:26.034 [main] INFO  Logger - Test registration - Chrome started.
+17:13:28.019 [main] INFO  Logger - negativeRegistrationTestScenario started.
+17:13:30.966 [main] INFO  Logger - negativeRegistrationTestScenario passed.
+17:13:31.685 [main] INFO  Logger - Test registration - Chrome finished.
+17:13:31.723 [main] INFO  Logger - Test registration - Edge started.
+17:13:33.142 [main] INFO  Logger - negativeRegistrationTestScenario started.
+17:13:34.991 [main] INFO  Logger - negativeRegistrationTestScenario passed.
+17:13:37.925 [main] INFO  Logger - Test registration - Edge finished.
+17:13:39.882 [main] INFO  Logger - Test registration with facebook account - Firefox started.
+17:13:45.844 [main] INFO  Logger - positiveRegistrationWithFacebookAccountTestScenario started.
+17:13:52.504 [main] INFO  Logger - positiveRegistrationWithFacebookAccountTestScenario passed.
+17:13:59.598 [main] INFO  Logger - negativeRegistrationWithFacebookAccountTestScenario started.
+17:14:05.522 [main] INFO  Logger - negativeRegistrationWithFacebookAccountTestScenario passed.
+17:14:06.223 [main] INFO  Logger - Test registration with facebook account - Firefox finished.
+17:14:06.223 [main] INFO  Logger - Test registration with facebook account - Chrome started.
+17:14:08.234 [main] INFO  Logger - positiveRegistrationWithFacebookAccountTestScenario started.
+17:14:17.747 [main] INFO  Logger - positiveRegistrationWithFacebookAccountTestScenario passed.
+17:14:20.534 [main] INFO  Logger - negativeRegistrationWithFacebookAccountTestScenario started.
+17:14:26.288 [main] INFO  Logger - negativeRegistrationWithFacebookAccountTestScenario passed.
+17:14:27.087 [main] INFO  Logger - Test registration with facebook account - Chrome finished.
+17:14:27.118 [main] INFO  Logger - Test registration with facebook account - Edge started.
+17:14:28.336 [main] INFO  Logger - positiveRegistrationWithFacebookAccountTestScenario started.
+17:14:35.109 [main] INFO  Logger - positiveRegistrationWithFacebookAccountTestScenario passed.
+17:14:39.367 [main] INFO  Logger - negativeRegistrationWithFacebookAccountTestScenario started.
+17:14:44.022 [main] INFO  Logger - negativeRegistrationWithFacebookAccountTestScenario passed.
+17:14:47.009 [main] INFO  Logger - Test registration with facebook account - Edge finished.
+17:15:15.128 [main] INFO  Logger - Test change password - Firefox started.
+17:15:20.908 [main] INFO  Logger - positivePasswordResetTestScenario started.
+17:15:24.211 [main] INFO  Logger - positivePasswordResetTestScenario passed.
+17:15:29.750 [main] INFO  Logger - negativePasswordResetTestScenario started.
+17:15:32.421 [main] INFO  Logger - negativePasswordResetTestScenario passed.
+17:15:33.006 [main] INFO  Logger - Test change password - Firefox finished.
+17:15:33.006 [main] INFO  Logger - Test change password - Chrome started.
+17:15:34.971 [main] INFO  Logger - positivePasswordResetTestScenario started.
+17:15:39.007 [main] INFO  Logger - positivePasswordResetTestScenario passed.
+17:15:41.681 [main] INFO  Logger - negativePasswordResetTestScenario started.
+17:15:44.646 [main] INFO  Logger - negativePasswordResetTestScenario passed.
+17:15:45.402 [main] INFO  Logger - Test change password - Chrome finished.
+17:15:45.438 [main] INFO  Logger - Test change password - Edge started.
+17:15:46.672 [main] INFO  Logger - positivePasswordResetTestScenario started.
+17:15:48.811 [main] INFO  Logger - positivePasswordResetTestScenario passed.
+17:15:53.018 [main] INFO  Logger - negativePasswordResetTestScenario started.
+17:15:54.614 [main] INFO  Logger - negativePasswordResetTestScenario passed.
+17:15:57.535 [main] INFO  Logger - Test change password - Edge finished.
+17:16:04.350 [main] INFO  Logger - Test authorization - Firefox started.
+17:16:10.222 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+17:16:13.005 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
+17:16:18.386 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+17:16:20.464 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+17:16:25.926 [main] INFO  Logger - checkAlertMessageTestScenario started.
+17:16:28.593 [main] INFO  Logger - checkAlertMessageTestScenario passed.
+17:16:28.998 [main] INFO  Logger - Test authorization - Firefox finished.
+17:16:28.998 [main] INFO  Logger - Test authorization - Chrome started.
+17:16:31.033 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+17:16:38.488 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
+17:16:41.493 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+17:16:44.979 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+17:16:47.697 [main] INFO  Logger - checkAlertMessageTestScenario started.
+17:16:52.083 [main] INFO  Logger - checkAlertMessageTestScenario passed.
+17:16:52.837 [main] INFO  Logger - Test authorization - Chrome finished.
+17:16:52.837 [main] INFO  Logger - Test authorization - Edge started.
+17:16:54.071 [main] INFO  Logger - positiveAuthorizationTestScenario started.
+17:16:57.090 [main] INFO  Logger - positiveAuthorizationTestScenario passed.
+17:17:05.762 [main] INFO  Logger - negativeAuthorizationTestScenario started.
+17:17:07.138 [main] INFO  Logger - negativeAuthorizationTestScenario passed.
+17:17:11.252 [main] INFO  Logger - checkAlertMessageTestScenario started.
+17:17:13.335 [main] INFO  Logger - checkAlertMessageTestScenario passed.
+17:17:16.273 [main] INFO  Logger - Test authorization - Edge finished.
